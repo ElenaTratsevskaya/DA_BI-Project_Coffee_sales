@@ -2,8 +2,8 @@
 Dashboard based on vending machine coffee sales data
 </br></br>
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" title="powerBI" width="40" height="40"/>&nbsp;
-  <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="figma" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" title="powerBI" width="60" height="60"/>&nbsp;
+  <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="figma" width="60" height="60"/>&nbsp;
 </div></br></br>
 
 Дашборд составлен по данным с портала [kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales) <br> 
